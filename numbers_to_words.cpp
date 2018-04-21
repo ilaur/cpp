@@ -1,5 +1,3 @@
-//Chapter 7_1
-
 #include <iostream>
 #include <stdlib.h>
 #include <sstream>
