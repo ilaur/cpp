@@ -1,5 +1,3 @@
-//Chapter 9_4
-
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
