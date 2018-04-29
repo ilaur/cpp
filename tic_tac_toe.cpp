@@ -1,4 +1,3 @@
-//Chapter 10_5
 /*Make your tic-tac-toe game into a version of connect-4 that allow boards bigger than 3 by 3 but
 requires 4-in-a-row to win. Allow the players to specify the size of the board while the program
 is running. (Hint: right now, you have to define your board to be a fixed size at compile time, so
